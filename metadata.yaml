@@ -1,10 +1,16 @@
 _repo: Deutsch-Ostafrika-Geographie-und-Geschichte-der-Colonie_49311
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49311-h/images/cover.jpg
 creator:
   author:
     agent_name: Förster, Brix
     gutenberg_agent_id: '45252'
     url: http://www.gutenberg.org/2009/agents/45252
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49311#Deutsch-Ostafrika-Geographie-und-Geschichte-der-Colonie
 gutenberg_issued: '2015-06-28'
 gutenberg_type: Text
 identifiers:
